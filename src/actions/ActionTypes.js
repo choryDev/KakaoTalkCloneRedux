@@ -1,0 +1,4 @@
+export const ENTERCHAT = "ENTERCHAT";
+
+export const ENTEREMAIL = "ENTEREMAIL";
+export const CHANGECHATNUM = "CHANGECHATNUM";

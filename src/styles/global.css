@@ -1,0 +1,9 @@
+body{
+  font-family: 'Cantarell', sans-serif;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+*{
+  box-sizing: border-box;
+}
